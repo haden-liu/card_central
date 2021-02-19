@@ -49,3 +49,8 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 
 gem 'rspec-rails'
+
+# add bootstrap gem for styling
+gem 'bootstrap', '~> 5.0.0.beta1'
+
+gem 'jquery-rails'
